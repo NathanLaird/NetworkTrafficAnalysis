@@ -1,0 +1,6 @@
+,summary,time,user_domain,comp,proc_name,start
+0,count,6642706,6642706,6642706,6642706,6642706
+1,mean,45140.268368944824,,,,
+2,stddev,20261.704584878156,,,,
+3,min,1,C1$@DOM1,C1,P1,End
+4,max,86399,U99@DOM1,C9997,P999,Start

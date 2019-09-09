@@ -1,0 +1,6 @@
+,summary,time,src_user_domain,dst_user_domain,src_comp,dst_comp,auth_type,logon_type,auth_orientation,Success
+0,count,15740768,15740768,15740768,15740768,15740768,15740768,15740768,15740768,15740768
+1,mean,45977.71795677314,,,,,,,,
+2,stddev,21708.537564018065,,,,,,,,
+3,min,1,ANONYMOUS LOGON@C10,ANONYMOUS LOGON@C10,C1,C1,?,?,AuthMap,Fail
+4,max,86399,U9@DOM1,U9@DOM1,C9997,U88,Wave,Unlock,TGT,Success
