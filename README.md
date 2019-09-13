@@ -1,9 +1,9 @@
 
-# Production Value
-**Identifying Record Producers from Audio Data**
-<br>Maxwell Fisch
+# Network Data Analysis
+**Investigating Potentially Compromised Machines using Network Data**
+<br>Nathan Laird
 <br>
-[Linkedin](http://www.linkedin.com/in/maxwellhfisch) | [Twitter](https://twitter.com/Maxwell_Fisch) | [Github](https://github.com/mhfisch)
+[Linkedin](http://www.linkedin.com/in/nathn-laird) | [Github](https://github.com/nathanlaird)
 
 ## Table of Contents
 
