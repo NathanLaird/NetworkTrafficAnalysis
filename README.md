@@ -25,7 +25,6 @@
 
 ### Personal
 
-<img src="images/bill_hare.png" align="center" width = "500" />
 
 While working at Netskope I became fascinated helping others manage risk and uncertainty, I got to a variety of people all working on the goal of securing those things that are most precious to them. I was enamoured by the idea that looking at network data could create models to better inform people about the risks they face.
 
