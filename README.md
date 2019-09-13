@@ -1,4 +1,3 @@
-<img src="images/production_value_logo.png" align="center" />
 
 # Production Value
 **Identifying Record Producers from Audio Data**
@@ -41,7 +40,7 @@ The process of reviewing Network Logs to monitor security is very valuable but a
 * Auth.txt - Contains All Authentification Events for the Network, used to identify human owned computers
 <img src="Viz/Human_Filtered_Auth.png" align="center" width = "500" />
 * Flow.txt - contains all data flows in the network with source IP Destination IP and ByteCount
-<img src="Viz/Flow_initial" align="center" width = "500" />
+<img src="Viz/Flow_initial.png" align="center" width = "500" />
 Redteam.txt - contains a list of all compromised machines
 
 
