@@ -85,6 +85,8 @@ our calculated p-value comes to 1.2472e-20, giving us ample evidence to reject 
 ## Built With
 
 * [Python](https://www.python.org/)
+* [AWS EMR](https://aws.amazon.com/emr/)
+* [AWS EC2](https://aws.amazon.com/ec2/)
 * [Spark](https://spark.apache.org/)
 * [Pandas](https://pandas.pydata.org/)
 * [Numpy](http://www.numpy.org/)
